@@ -1,2 +1,3 @@
 # flaskdegakusyuusitamono
 flaskpracticeは、flaskの練習というよりBootstrapの練習になっていると自分でも思います。
+flaskpractice2は簡単なメモアプリです。
